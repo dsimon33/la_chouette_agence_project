@@ -1040,3 +1040,8 @@ h4 {
         text-align: center;
     }
 }
+
+li, .form-group{
+    margin-top: 9px;
+    margin-bottom: 9px;
+}
